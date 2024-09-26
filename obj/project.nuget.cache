@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "tFzy/PyFss8L68y9VBIf5wVsVmSyap9ykLi7WvEpYAqFhoj6Xa6dncCmXNRPrUP09M+so9jSN8BN6bC0HUIXvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario-27516\\Documents\\Avaliacao\\API Simples\\API Simples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario-27516\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\usuario-27516\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\usuario-27516\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\usuario-27516\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.8.0\\swashbuckle.aspnetcore.annotations.6.8.0.nupkg.sha512",
+    "C:\\Users\\usuario-27516\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.8.0\\swashbuckle.aspnetcore.swagger.6.8.0.nupkg.sha512",
+    "C:\\Users\\usuario-27516\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.8.0\\swashbuckle.aspnetcore.swaggergen.6.8.0.nupkg.sha512",
+    "C:\\Users\\usuario-27516\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

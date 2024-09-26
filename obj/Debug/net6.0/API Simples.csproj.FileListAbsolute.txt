@@ -1,0 +1,33 @@
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\bin\Debug\net6.0\appsettings.json
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\bin\Debug\net6.0\API Simples.exe
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\bin\Debug\net6.0\API Simples.deps.json
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\bin\Debug\net6.0\API Simples.runtimeconfig.json
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\bin\Debug\net6.0\API Simples.dll
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\bin\Debug\net6.0\API Simples.pdb
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\API Simples.csproj.AssemblyReference.cache
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\API Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\API Simples.AssemblyInfoInputs.cache
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\API Simples.AssemblyInfo.cs
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\API Simples.csproj.CoreCompileInputs.cache
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\API Simples.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\API Simples.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\staticwebassets\msbuild.API Simples.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\staticwebassets\msbuild.build.API Simples.props
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API Simples.props
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API Simples.props
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\scopedcss\bundle\API Simples.styles.css
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\API Simples.csproj.CopyComplete
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\API Simples.dll
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\refint\API Simples.dll
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\API Simples.pdb
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\API Simples.genruntimeconfig.cache
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\obj\Debug\net6.0\ref\API Simples.dll
+C:\Users\usuario-27516\Documents\Avaliacao\API Simples\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
